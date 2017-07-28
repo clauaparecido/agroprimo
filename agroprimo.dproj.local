@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/06/18 10:45:34.000.901,=C:\Users\claudionor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/30 21:09:55.592,=C:\Users\claudionor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/30 21:31:57.117,C:\Users\claudionor\Documents\agroprimo\unconexao.dfm=C:\Users\claudionor\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/06/30 21:31:57.117,C:\Users\claudionor\Documents\agroprimo\unconexao.pas=C:\Users\claudionor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/30 21:32:07.758,C:\Users\claudionor\Documents\agroprimo\agroprimo.dproj=C:\Users\claudionor\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/06/30 21:32:21.940,=C:\Users\claudionor\Documents\agroprimo\Unit2.pas</Transaction>
+    <Transaction>2017/06/30 22:10:13.277,C:\Users\claudionor\Documents\agroprimo\uclientes.dfm=C:\Users\claudionor\Documents\agroprimo\Unit2.dfm</Transaction>
+    <Transaction>2017/06/30 22:10:13.277,C:\Users\claudionor\Documents\agroprimo\uclientes.pas=C:\Users\claudionor\Documents\agroprimo\Unit2.pas</Transaction>
+    <Transaction>2017/06/30 22:25:54.612,C:\Users\claudionor\Documents\agroprimo\unconexaoMYSQL.pas=C:\Users\claudionor\Documents\agroprimo\unconexao.pas</Transaction>
+    <Transaction>2017/06/30 22:25:54.612,C:\Users\claudionor\Documents\agroprimo\unconexaoMYSQL.dfm=C:\Users\claudionor\Documents\agroprimo\unconexao.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
