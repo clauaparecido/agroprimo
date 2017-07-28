@@ -2,10 +2,10 @@ program agroprimo2;
 
 uses
   Forms,
-  ulogin in '..\..\agroprimo2\ulogin.pas' {Formlogin},
-  uconexao in '..\..\agroprimo2\uconexao.pas' {dmMYSQL: TDataModule},
-  ucllientes in '..\..\agroprimo2\ucllientes.pas' {Formclientes},
-  uprincipal in '..\..\agroprimo2\uprincipal.pas' {Formprincipal},
+  ulogin in '..\..\agroprimo\ulogin.pas' {Formlogin},
+  uconexao in '..\..\agroprimo\uconexao.pas' {dmMYSQL: TDataModule},
+  ucllientes in '..\..\agroprimo\uclientes.pas' {Formclientes},
+  uprincipal in '..\..\agroprimo\uprincipal.pas' {Formprincipal},
   ufornecedor in '..\ufornecedor.pas' {Formfornecedor},
   uproduto in '..\uproduto.pas' {Formproduto},
   uanimais in '..\uanimais.pas' {formanimais};
